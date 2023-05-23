@@ -1,5 +1,9 @@
 Hi, my name is Zach.
 
+- [LinkedIn](https://www.linkedin.com/in/zacharybabers/)
+- [Twitter](https://twitter.com/zbabers1)
+
+
 <!--
 **zacharybabers/zacharybabers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
