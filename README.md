@@ -1,4 +1,4 @@
-Hi, my name is Zach.
+Hi, my name is Zach. Welcome to my Github.
 
 - [LinkedIn](https://www.linkedin.com/in/zacharybabers/)
 - [Twitter](https://twitter.com/zbabers1)
